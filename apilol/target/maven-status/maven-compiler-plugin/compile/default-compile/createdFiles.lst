@@ -1,0 +1,3 @@
+com\zein\apilol\ApilolApplication.class
+com\zein\apilol\Repositories\CustomerRepository.class
+com\zein\apilol\Entity\Customer.class
